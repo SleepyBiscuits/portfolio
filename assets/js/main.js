@@ -8,7 +8,7 @@
 
 	var	$window = $(window),
 		$body = $('body');
-		$about = $('About')
+		$about = $('about')
 
 	// Breakpoints.
 		breakpoints({
