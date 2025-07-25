@@ -165,6 +165,11 @@ input, select, textarea {
 	p {
 		margin: 0 0 2em 0;
 	}
+	.caption {
+		font-style: italic;
+		font-size: 0.9em;
+		text-align: center;
+	}
 
 	h1 {
 		font-size: 2.75em;
